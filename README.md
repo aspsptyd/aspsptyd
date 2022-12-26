@@ -8,6 +8,4 @@ _Mobile Android Developer @ <a href="https://goodeva.co.id/">Goodeva Technology<
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aspsptyd's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspsptyd&hide_title=true&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="149px"/></a> &nbsp; <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aspsptyd's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aspsptyd&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="149px"/></a>
 
-#### Portofolio's
-
-- <a href="https://github.com/aspsptyd/reactnative-lab/wiki">Wiki React Native's</a> - Research, Concept, Integration and others
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a><a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
