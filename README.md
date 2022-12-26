@@ -1,5 +1,5 @@
 ## Hey, I'm Asep Septiadi
 
-Software Enginner
+_Mobile Android Developer @ <a href="https://goodeva.co.id/">Goodeva Technology</a> - Since 2021 - Present_
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/aspsptyd?label=Follow)](https://twitter.com/aspsptyd) [![Linkedin: aspsptyd](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aspsptyd/)](https://www.linkedin.com/in/aspsptyd/)
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a> <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-989ca3?logo=stack-overflow&logoColor=white"></a>
