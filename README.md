@@ -1,4 +1,4 @@
-## Hey, I'm Asep Septiadi
+## Hey yo! i'm Asep, Welcome dude!
 
 _Mobile Android Developer @ <a href="https://goodeva.co.id/">Goodeva Technology</a> - Since 2021 - Present_
 
