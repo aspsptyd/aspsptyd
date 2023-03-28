@@ -20,3 +20,4 @@ Future Resolutions and Targets
 
 - Build a Family Personal Financial Management & Recording Application and Maintain it Periodically `(Soon)`, `Mobile App`, `API Backend Native`, `Upgrade Rest API with Laravel`
 - Build a Simple Student Presence Application by Maintaining it Regularly `(Soon)`, `Mobile & Web App`, `Rest API with Laravel`
+- Build Monitoring and Maintain Update Production Applications Periodically and Be Able to See Updates that Occur `(Soon)`, `Web App`
