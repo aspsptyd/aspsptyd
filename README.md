@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- |
 | Teacher Web & Mobile Programmer | <a href="https://goodeva.co.id/](https://www.instagram.com/rabbaanii_official/)">SMKI Rabbaanii Boarding School</a> | Okt 2017 - Juli 2021 | PHP, Java & Android Studio IDE |
 | Mobile Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Juli 2021 - May 2023 | Java & Android Studio |
-| iOS & Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | May 2023 - Present | React Native |
+| iOS & Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | May 2023 - Present | React Native, Javascript, HTML & CSS |
 
 **Contact & Details**
 
