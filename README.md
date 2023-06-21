@@ -6,7 +6,7 @@ I a _Mobile Android Developer @ <a href="https://goodeva.co.id/">Goodeva Technol
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Asep Septiadi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aspsptyd&theme=react-dark&hide_border=true&hide_title=false&custom_title=Aktifitas%20GitHub%20Saya" /></a> -->
 
-**My Activity on Contribute with my Repository Collections**
+**My Activity on Contribute with my Repository Collections <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">(Setup Graph)</a>**
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aspsptyd&theme=tokyo-night&hide_border=true&hide_title=false&custom_title=Kontribusi%20Harian%20Saya)](https://github.com/aspsptyd/github-readme-activity-graph) -->
 
