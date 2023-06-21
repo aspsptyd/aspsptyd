@@ -10,7 +10,7 @@ I a _Mobile Android Developer @ <a href="https://goodeva.co.id/">Goodeva Technol
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aspsptyd&theme=tokyo-night&hide_border=true&hide_title=false&custom_title=Kontribusi%20Harian%20Saya)](https://github.com/aspsptyd/github-readme-activity-graph) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aspsptyd&theme=tokyo-night&hide_border=true&hide_title=false&custom_title=Kontribusi%20Harian%20Saya)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aspsptyd&theme=merko&radius=16&area=true&hide_border=true&hide_title=false&custom_title=Kontribusi%20Harian%20Saya)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aspsptyd&theme=nord_dark) -->
 
