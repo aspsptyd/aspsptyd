@@ -26,10 +26,11 @@
 
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"> <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"> <img alt="Node JS" src="https://img.shields.io/badge/Node%20JS-008678.svg?logo=javascript&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"> <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"> <img alt="PHP" src ="https://img.shields.io/badge/PHP-2c51f5.svg?logo=php&logoColor=white">
 
-**Future Resolutions and Targets**
+## Portofolio Project
 
-| Project      | Project Description |
-| ----------- | ----------- |
-| PRJ9234      | Build a Family Personal Financial Management & Recording Application and Maintain it Periodically `(Soon)`, `Mobile App`, `API Backend Native`, `Upgrade Rest API with Laravel` <a href="">Monitor Progress</a>       |
-| PRJ9232   | Build a Simple Student Presence Application by Maintaining it Regularly `(Soon)`, `Mobile & Web App`, `Rest API with Laravel` <a href="">Monitor Progress</a>        |
-| PRJ9231   | Build Monitoring and Maintain Update Production Applications Periodically and Be Able to See Updates that Occur `(Soon)`, `Web App` <a href="">Monitor Progress</a>        |
+| # | Project Description | Tags |
+| :--- | :--- | :--- |
+| 1 | Build a Family Personal Financial Management & Recording Application and Maintain it Periodically | `(Soon)` `Mobile App` `Native API` `Upgrade Rest API with Laravel` |
+| 2 | Build a Simple Student Presence Application by Maintaining it Regularly | `(Soon)` `Mobile & Web App` `Native API` `Rest API with Laravel` |
+| 3 | Build Monitoring and Maintain Update Production Applications Periodically and Be Able to See Updates that Occur | `(Soon)` `Web App` |
+| 4 | Sistem Informasi Sekolah berbasis Web dengan Laravel 9 | `On Progress` |
