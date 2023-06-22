@@ -23,9 +23,13 @@ My Activity on Contribute with my Repository Collections <a href="https://github
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aspsptyd&theme=nord_dark) -->
 
-My Insight of technology
+<!--My Insight of technology
 
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"> <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"> <img alt="Node JS" src="https://img.shields.io/badge/Node%20JS-008678.svg?logo=javascript&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"> <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"> <img alt="PHP" src ="https://img.shields.io/badge/PHP-2c51f5.svg?logo=php&logoColor=white">
+ <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"> <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"> <img alt="Node JS" src="https://img.shields.io/badge/Node%20JS-008678.svg?logo=javascript&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"> <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"> <img alt="PHP" src ="https://img.shields.io/badge/PHP-2c51f5.svg?logo=php&logoColor=white"> -->
+
+Skill & Competencies <a href="https://github.com/tandpfun/skill-icons">(Setup Icon)</a>
+ 
+[![My Skills](https://skillicons.dev/icons?i=gitlab,github,bash,androidstudio,laravel,react,java,firebase&theme=dark)](https://skillicons.dev)
 
 ## Portofolio Project
 
