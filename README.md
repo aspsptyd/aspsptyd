@@ -2,11 +2,12 @@
 
 **Work experience**
 
-| # | Job desk | Company | Long experience | Tools |
+| # | Job desk | Company | Long experience | Detail job |
 | :---: | :--- | :--- | :--- | :--- |
-| 1 | Teacher Web & Mobile Programmer | <a href="https://goodeva.co.id/](https://www.instagram.com/rabbaanii_official/)">SMKI Rabbaanii Boarding School</a> | Okt 2017 - Juli 2021 | PHP, Java & Android Studio IDE |
-| 2 | Mobile Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Juli 2021 - May 2023 | Java & Android Studio |
-| 3 | iOS & Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | May 2023 - Present | React Native, Javascript, HTML & CSS |
+| 0 | IT Support | <a href="https://www.pelitabangsa.ac.id/">STT Pelita Bangsa</a> | 2016 - 2017 | Support internet network campus, Setup network & PC lab campus |
+| 1 | Teacher Web & Mobile Programmer | <a href="https://goodeva.co.id/](https://www.instagram.com/rabbaanii_official/)">SMKI Rabbaanii Boarding School</a> | Okt 2017 - Juli 2021 | Teacher PHP, Java Programmer |
+| 2 | Mobile Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Juli 2021 - May 2023 | Handle product development with Java and Android Studio, SDK Pair wearables and use data to calculate the number of hours sleep of coal mine operators |
+| 3 | iOS & Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | May 2023 - Present | Handles the Omsetku application with React Native multiplatform iOS & Android |
 
 **Contact & Details Portofolios**
 
