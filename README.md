@@ -1,4 +1,4 @@
-_Hallo, i'm Asep Septiadi, Now am a React Native Developer @ <a href="https://goodeva.co.id/">Goodeva Technology</a> - Since 2021 - Present_
+_Hallo, i'm Asep Septiadi, Now am a React Native Developer @ <a href="https://goodeva.co.id/">Goodeva Technology</a> - Work since 2021 - Present_
 
 ## Work experience
 
