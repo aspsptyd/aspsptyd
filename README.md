@@ -29,9 +29,11 @@
 
 ## Portofolio Project
 
-| # | Project Description | Tags |
-| :--- | :--- | :--- |
-| 1 | Build a Family Personal Financial Management & Recording Application and Maintain it Periodically | `(Soon)` `Mobile App` `Native API` `Upgrade Rest API with Laravel` |
-| 2 | Build a Simple Student Presence Application by Maintaining it Regularly | `(Soon)` `Mobile & Web App` `Native API` `Rest API with Laravel` |
-| 3 | Build Monitoring and Maintain Update Production Applications Periodically and Be Able to See Updates that Occur | `(Soon)` `Web App` |
-| 4 | Sistem Informasi Sekolah berbasis Web dengan Laravel 9 | `On Progress` |
+| # | Project Description | Tags | Status |
+| :--- | :--- | :--- | :--- |
+| 1 | Build a Family Personal Financial Management & Recording Application and Maintain it Periodically | `Java`, `Native API` | **Soon** |
+| 2 | Build a Simple Student Presence Application by Maintaining it Regularly | `Java`, `Native API` | **Soon** |
+| 3 | Build Monitoring and Maintain Update Production Applications Periodically and Be Able to See Updates that Occur | `Laravel 9`, `Web` | **Soon** |
+| 4 | Sistem Informasi Sekolah berbasis Web dengan Laravel 9 | `Laravel 9`, `Web` | <a href="https://github.com/users/aspsptyd/projects/6">On Development Project</a> |
+| 5 | Pertahara `Not participating in development anymore` | `Java`, `Android Studio IDE` | <a href="https://play.google.com/store/apps/details?id=com.global.pertahara">Lihat Produk</a>, <a href="https://www.hara.ag/about-us">Detail Pertahara</a> |
+| 6 | Omsetku App <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Still Involved in Development</a> | `iOS & Android`, `React Native`, `Javascript` | <a href="https://omsetku.id/">Lihat Produk</a> |
