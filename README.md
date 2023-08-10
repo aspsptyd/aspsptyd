@@ -19,7 +19,7 @@ My Activity on Contribute with my Repository Collections <a href="https://github
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aspsptyd&theme=tokyo-night&hide-title=true&hide_border=true&hide_title=false&custom_title=Kontribusi%20Harian%20Saya)](https://github.com/aspsptyd/github-readme-activity-graph) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aspsptyd&theme=merko&radius=16&area=true&hide_border=true&hide_title=true&custom_title=Kontribusi%20Harian%20Saya)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aspsptyd&theme=react&radius=16&area=true&hide_border=true&hide_title=true&custom_title=Kontribusi%20Harian%20Saya)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aspsptyd&theme=nord_dark) -->
 
@@ -29,7 +29,7 @@ My Activity on Contribute with my Repository Collections <a href="https://github
 
 Skill & Competencies <a href="https://github.com/tandpfun/skill-icons">(Setup Icon)</a>
  
-[![My Skills](https://skillicons.dev/icons?i=gitlab,github,bash,androidstudio,laravel,react,java,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab,github,bash,androidstudio,laravel,react,java,firebase&theme=light)](https://skillicons.dev)
 
 ## Portofolio Project
 
