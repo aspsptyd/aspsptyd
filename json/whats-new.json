@@ -1,3 +1,9 @@
 {
-  msg: "Data Ok"
+  "msg": "Whats New!",
+  "version": [
+    {
+      "kode_versi": "1.42",
+      "build_number": "202308253",
+    },
+  ]
 }
