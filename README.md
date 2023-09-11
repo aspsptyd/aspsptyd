@@ -43,4 +43,4 @@ Skill & Competencies <a href="https://github.com/tandpfun/skill-icons">(Setup Ic
 | 6 | Omsetku App <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Still Involved in Development</a> | `iOS & Android`, `React Native`, `Javascript` | <a href="https://omsetku.id/">Lihat Produk</a> |
 
 ## QnA Diskusi Apa Saja Klik Link Berikut
-<a href="https://github.com/tinytrickz/diskusi-tiny-trickz-yt/issues">Diskusi, Pertanyaan atau Lainnya, Buat Disini</a>
+<img src="https://github.com/aspsptyd/aspsptyd/blob/master/image-icon/chat-box.png" width="15" />&nbsp;<a href="https://github.com/tinytrickz/diskusi-tiny-trickz-yt/issues">Diskusi, Pertanyaan atau Lainnya, Buat Disini</a>
