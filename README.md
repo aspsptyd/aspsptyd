@@ -41,3 +41,6 @@ Skill & Competencies <a href="https://github.com/tandpfun/skill-icons">(Setup Ic
 | 4 | Sistem Informasi Sekolah berbasis Web dengan Laravel 9 | `Laravel 9`, `Web` | <a href="https://github.com/users/aspsptyd/projects/6">On Development Project</a> |
 | 5 | Pertahara `Not participating in development anymore` | `Java`, `Android Studio IDE` | <a href="https://play.google.com/store/apps/details?id=com.global.pertahara">Lihat Produk</a>, <a href="https://www.hara.ag/about-us">Detail Pertahara</a> |
 | 6 | Omsetku App <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Still Involved in Development</a> | `iOS & Android`, `React Native`, `Javascript` | <a href="https://omsetku.id/">Lihat Produk</a> |
+
+## QnA Diskusi Apa Saja Klik Link Berikut
+<a href="https://github.com/tinytrickz/diskusi-tiny-trickz-yt/issues">Diskusi, Pertanyaan atau Lainnya, Buat Disini</a>
