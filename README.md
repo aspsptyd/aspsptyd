@@ -7,7 +7,7 @@ _Hallo, i'm Asep Septiadi, Now am a React Native Developer @ <a href="https://go
 | 0 | IT Support | <a href="https://www.pelitabangsa.ac.id/">STT Pelita Bangsa</a> | 2016 - 2017 | Support internet network campus, Setup network & PC lab campus |
 | 1 | Teacher Web & Mobile Programmer | <a href="https://goodeva.co.id/](https://www.instagram.com/rabbaanii_official/)">SMKI Rabbaanii Boarding School</a> | Okt 2017 - Juli 2021 | Teacher PHP (Laravel), Java Mobile Programmer (Android Studio IDE) |
 | 2 | Mobile Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Juli 2021 - Jan 2023 | Handle and support product development with Java (Android Studio IDE), SDK Pair wearables, and use data to calculate the number of hours sleep of coal mine operators, <a href="https://goodeva.co.id/goodeva-smart-safety">Goodeva Smartsafety</a> |
-| 3 | React Native Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Jan 2023 - Present | Handles the <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Omsetku</a> application with React Native multiplatform iOS & Android |
+| 3 | React Native Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Jan 2023 - Present | Handles the <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Omsetku @ PlayStore</a> or <a href="https://apps.apple.com/id/app/omsetku/id6451191591">Omsetku @ AppStore<a/> application with React Native multiplatform iOS & Android |
 
 ## Contact & Details Portofolios
 
