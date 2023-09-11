@@ -35,7 +35,7 @@ Skill & Competencies <a href="https://github.com/tandpfun/skill-icons">(Setup Ic
 
 | # | Project Description | Tags | Status |
 | :--- | :--- | :--- | :--- |
-| 1 | Build a Family Personal Financial Management & Recording Application and Maintain it Periodically | `Java`, `Native API` | **Soon** |
+| 1 | Aplikasi Uang Kita | `Java`, `Native API` | <a href="https://www.youtube.com/playlist?list=PLGuz9_cMP8EGZR2PYc1GYRk3I9X74rH_c">Lihat Playlist di YouTube v1.0<a/> |
 | 2 | Build a Simple Student Presence Application by Maintaining it Regularly | `Java`, `Native API` | **Soon** |
 | 3 | Build Monitoring and Maintain Update Production Applications Periodically and Be Able to See Updates that Occur | `Laravel 9`, `Web` | **Soon** |
 | 4 | Sistem Informasi Sekolah berbasis Web dengan Laravel 9 | `Laravel 9`, `Web` | <a href="https://github.com/users/aspsptyd/projects/6">On Development Project</a> |
