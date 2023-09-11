@@ -38,11 +38,11 @@ Skill & Competencies <a href="https://github.com/tandpfun/skill-icons">(Setup Ic
 | # | Project Description | Tags | Status |
 | :--- | :--- | :--- | :--- |
 | 1 | Aplikasi Uang Kita | `Java`, `Native API` | <a href="https://www.youtube.com/playlist?list=PLGuz9_cMP8EGZR2PYc1GYRk3I9X74rH_c">Lihat Playlist di YouTube v1.0<a/> |
-| 2 | Build a Simple Student Presence Application by Maintaining it Regularly | `Java`, `Native API` | **Soon** |
-| 3 | Build Monitoring and Maintain Update Production Applications Periodically and Be Able to See Updates that Occur | `Laravel 9`, `Web` | **Soon** |
+| 2 | Aplikasi Absensi Siswa | `Java`, `Native API` | **Soon** |
+| 3 | Aplikasi Money Habit | `Laravel 9`, `Android`, `API` | <a href="https://github.com/aspsptyd/app-money-habit">Proyek Aplikasi Android</a>, <a href="https://github.com/aspsptyd/api-money-habit">Proyek API</a> |
 | 4 | Sistem Informasi Sekolah berbasis Web dengan Laravel 9 | `Laravel 9`, `Web` | <a href="https://github.com/users/aspsptyd/projects/6">On Development Project</a> |
-| 5 | Pertahara `Not participating in development anymore` | `Java`, `Android Studio IDE` | <a href="https://play.google.com/store/apps/details?id=com.global.pertahara">Lihat Produk</a>, <a href="https://www.hara.ag/about-us">Detail Pertahara</a> |
-| 6 | Omsetku App <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Still Involved in Development</a> | `iOS & Android`, `React Native`, `Javascript` | <a href="https://omsetku.id/">Lihat Produk</a> |
+| 5 | Pertahara `Sudah tidak ada update lagi` | `Java`, `Android Studio IDE` | <a href="https://play.google.com/store/apps/details?id=com.global.pertahara">Lihat Produk</a>, <a href="https://www.hara.ag/about-us">Detail Pertahara</a> |
+| 6 | Omsetku App <a href="https://omsetku.id/">Masih Support Development</a> | `iOS & Android`, `React Native`, `Javascript` | <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Omsetku @ PlayStore</a> or <a href="https://apps.apple.com/id/app/omsetku/id6451191591">Omsetku @ AppStore<a/> |
 
 ## QnA Diskusi Apa Saja Klik Link Berikut
 <img src="https://github.com/aspsptyd/aspsptyd/blob/master/image-icon/chat-box.png" width="15" />&nbsp;<a href="https://github.com/tinytrickz/diskusi-tiny-trickz-yt/issues">Diskusi, Pertanyaan atau Lainnya, Buat Disini</a>
