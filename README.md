@@ -46,4 +46,4 @@ Skill & Competencies <a href="https://github.com/tandpfun/skill-icons">(Setup Ic
 | 7 | Aplikasi QA berbasis Web | `Laravel 9`, `PHP`, `Bootstrap` | <a href="https://github.com/aspsptyd/recompose-job">Join Us Here for Develop</a> |
 
 ## QnA Diskusi Apa Saja Klik Link Berikut
-<img src="https://github.com/aspsptyd/aspsptyd/blob/master/image-icon/chat-box.png" width="15" />&nbsp;<a href="https://github.com/tinytrickz/diskusi-tiny-trickz-yt/issues">Diskusi, Pertanyaan atau Lainnya, Buat Disini</a>
+<img src="https://github.com/aspsptyd/aspsptyd/blob/master/image-icon/chat-box.png" width="15" />&nbsp;<a href="https://github.com/aspsptyd/aspsptyd/issues/1">Diskusi, Pertanyaan atau Lainnya, Buat Disini</a>
