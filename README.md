@@ -1,6 +1,8 @@
+# Hi, Dude!
+
 _Hallo, i'm Asep Septiadi, Now am a React Native Developer @ <a href="https://goodeva.co.id/">Goodeva Technology</a> - Work since 2021 - present_ 👋
 
-![GitHub forks](https://img.shields.io/github/forks/aspsptyd/aspsptyd.svg) ![GitHub contributors](https://img.shields.io/github/contributors/aspsptyd/aspsptyd.svg) ![GitHub top language](https://img.shields.io/github/languages/top/aspsptyd/aspsptyd.svg) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aspsptyd/aspsptyd)
+<img src="https://github-stats-alpha.vercel.app/api?username=aspsptyd" />
 
 ## Work experience
 
