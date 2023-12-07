@@ -2,7 +2,7 @@
 
 _Hallo, i'm Asep Septiadi, Now am a React Native Developer @ <a href="https://goodeva.co.id/">Goodeva Technology</a> - Work since 2021 - present_ 👋
 
-<img src="https://github-stats-alpha.vercel.app/api?username=aspsptyd" />
+<img src="https://github-stats-alpha.vercel.app/api?username=aspsptyd&cc=000&tc=fff&ic=fff&bc=000" />
 
 ## Work experience
 
