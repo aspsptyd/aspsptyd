@@ -31,7 +31,7 @@ My Activity on Contribute with my Repository Collections <a href="https://github
 
 Skill & Competencies <a href="https://github.com/tandpfun/skill-icons">(Setup Icon)</a>
  
-[![My Skills](https://skillicons.dev/icons?i=gitlab,github,bash,androidstudio,laravel,react,java,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab,github,bash,androidstudio,laravel,react,java,firebase,supabase,sqlite&theme=light)](https://skillicons.dev)
 
 ## Portofolio Project
 
