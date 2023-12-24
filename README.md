@@ -9,7 +9,7 @@ _Hallo, i'm Asep Septiadi, Now am a React Native Developer @ <a href="https://go
 | 0 | IT Support | <a href="https://www.pelitabangsa.ac.id/">STT Pelita Bangsa</a> | 2016 - 2017 | Support internet network campus, Setup network & PC lab campus |
 | 1 | Teacher Web & Mobile Programmer | <a href="https://goodeva.co.id/](https://www.instagram.com/rabbaanii_official/)">SMKI Rabbaanii Boarding School</a> | Okt 2017 - Juli 2021 | Teacher PHP (Laravel), Java Mobile Programmer (Android Studio IDE) |
 | 2 | Mobile Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Juli 2021 - Jan 2023 | Handle and support product development with Java (Android Studio IDE), SDK Pair wearables, and use data to calculate the number of hours sleep of coal mine operators, <a href="https://goodeva.co.id/goodeva-smart-safety">Goodeva Smartsafety</a> |
-| 3 | React Native Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Jan 2023 - Present | Handles the <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Omsetku @ PlayStore</a> or <a href="https://apps.apple.com/id/app/omsetku/id6451191591">Omsetku @ AppStore<a/> application with React Native multiplatform iOS & Android |
+| 3 | React Native Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Jan 2023 - Present | Handles the <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Omsetku @ PlayStore</a>, <a href="https://play.google.com/store/apps/details?id=com.goodeva.salestrace">SalesTrace @ PlayStore</a>  and <a href="https://apps.apple.com/id/app/omsetku/id6451191591">Omsetku @ AppStore<a/>, <a href="https://apps.apple.com/id/app/salestrace/id6458103424">SalesTrace @ AppStore<a/> application with React Native multiplatform iOS & Android |
 
 ## Contact, Activity & Details Portofolios
 
@@ -37,13 +37,11 @@ Skill & Competencies <a href="https://github.com/tandpfun/skill-icons">(Setup Ic
 
 | # | Project Description | Tags | Status |
 | :--- | :--- | :--- | :--- |
-| 1 | Aplikasi Uang Kita `G1` | `Java`, `Native API` | <a href="https://www.youtube.com/playlist?list=PLGuz9_cMP8EGZR2PYc1GYRk3I9X74rH_c">Lihat Playlist di YouTube v1.0<a/> |
-| 2 | Aplikasi Absensi Siswa | `Java`, `Native API` | **Soon** |
-| 3 | Aplikasi Money Habit | `Laravel 9`, `Android`, `API` | <a href="https://github.com/aspsptyd/app-money-habit">Proyek Aplikasi Android</a>, <a href="https://github.com/aspsptyd/api-money-habit">Proyek API</a> |
-| 4 | Sistem Informasi Sekolah berbasis Web dengan Laravel 9 | `Laravel 9`, `Web` | <a href="https://github.com/users/aspsptyd/projects/6">On Development Project</a> |
-| 5 | Pertahara `Sudah tidak ada update lagi` | `Java`, `Android Studio IDE` | <a href="https://play.google.com/store/apps/details?id=com.global.pertahara">Lihat Produk</a>, <a href="https://www.hara.ag/about-us">Detail Pertahara</a> |
-| 6 | Omsetku App <a href="https://omsetku.id/">Masih Support Development</a> | `iOS & Android`, `React Native`, `Javascript` | <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Omsetku @ PlayStore</a> or <a href="https://apps.apple.com/id/app/omsetku/id6451191591">Omsetku @ AppStore<a/> |
-| 7 | Aplikasi QA berbasis Web | `Laravel 9`, `PHP`, `Bootstrap` | <a href="https://github.com/aspsptyd/recompose-job">Join Us Here for Develop</a> |
+| 1 | Aplikasi Uang Kita `G1` Versi `v1.0` | `Java`, `Native API` | <a href="https://www.youtube.com/playlist?list=PLGuz9_cMP8EGZR2PYc1GYRk3I9X74rH_c">Lihat Playlist untuk Mengikuti<a/> |
+| 2 | Pertahara `Sudah tidak ada update lagi` | `Java`, `Android Studio IDE` | <a href="https://play.google.com/store/apps/details?id=com.global.pertahara">Lihat Produk</a>, <a href="https://www.hara.ag/about-us">Detail Pertahara</a> |
+| 3 | Omsetku <a href="https://omsetku.id/">Masih Support Development</a> | `iOS & Android`, `React Native`, `Javascript` | <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">Omsetku @ PlayStore</a> and <a href="https://apps.apple.com/id/app/omsetku/id6451191591">Omsetku @ AppStore<a/> |
+| 4 | SalesTrace <a href="https://omsetku.id/">Masih Support Development</a> | `iOS & Android`, `React Native`, `Javascript` | <a href="https://play.google.com/store/apps/details?id=com.goodeva.salestrace">SalesTrace @ PlayStore</a> and <a href="https://apps.apple.com/id/app/salestrace/id6458103424">SalesTrace @ AppStore<a/> |
+| 5 | RecomposeJOB - Aplikasi QA berbasis Web <a href="https://github.com/aspsptyd/recompose-job/releases">Lihat Histori Rilis</a> | `Laravel 9`, `PHP`, `Bootstrap` | <a href="https://github.com/aspsptyd/recompose-job">Join Us Here for Develop</a> |
 
 ## QnA Diskusi Apa Saja Klik Link Berikut
 <img src="https://github.com/aspsptyd/aspsptyd/blob/master/image-icon/chat-box.png" width="15" />&nbsp;<a href="https://github.com/aspsptyd/aspsptyd/issues/1">Diskusi, Pertanyaan atau Lainnya, Buat Disini</a>
