@@ -2,6 +2,9 @@
 
 _Hallo, i'm Asep Septiadi, Now am a React Native Developer @ <a href="https://goodeva.co.id/">Goodeva Technology</a> - Work since 2021 - present_ 👋
 
+## Random quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ## Work experience
 
 | # | Job desk | Company | Long experience | Detail job |
