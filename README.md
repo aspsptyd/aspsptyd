@@ -2,15 +2,6 @@
 
 _Hallo, i'm ~$ ashorterm, Now am a React Native Developer @ <a href="https://goodeva.co.id/">Goodeva Technology</a> - Work since 2021 - present_ 👋
 
-## Work experience
-
-| # | Job desk | Company | Long experience | Detail job |
-| :---: | :--- | :--- | :--- | :--- |
-| 0 | IT Support | <a href="https://www.pelitabangsa.ac.id/">STT Pelita Bangsa</a> | 2016 - 2017 | Support internet network campus, Setup network & PC lab campus |
-| 1 | Teacher Web & Mobile Programmer | <a href="https://goodeva.co.id/](https://www.instagram.com/rabbaanii_official/)">SMKI Rabbaanii Boarding School</a> | Okt 2017 - Juli 2021 | Teacher PHP (Laravel), Java Mobile Programmer (Android Studio IDE) |
-| 2 | Mobile Android Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Juli 2021 - Jan 2023 | Handle and support product development with Java (Android Studio IDE), SDK Pair wearables, and use data to calculate the number of hours sleep of coal mine operators <a href="https://goodeva.co.id/goodeva-smart-safety">Goodeva Smartsafety</a> |
-| 3 | React Native Developer | <a href="https://goodeva.co.id/">PT. Global Pristya Indonesia</a> | Jan 2023 - Present | Handle product application with React Native iOS & Android: <br />1. Omsetku <a href="https://play.google.com/store/apps/details?id=com.goodeva.omsetku">@ PlayStore</a>, SalesTrace <a href="https://play.google.com/store/apps/details?id=com.goodeva.salestrace">@ PlayStore</a> <br />2. Omsetku <a href="https://apps.apple.com/id/app/omsetku/id6451191591">@ AppStore<a/>, SalesTrace <a href="https://apps.apple.com/id/app/salestrace/id6458103424">@ AppStore<a/>  |
-
 ## Contact, Activity & Details Portofolios
 
 [![Twitter Badge](https://img.shields.io/badge/-@aspsptyd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aspsptyd)](https://twitter.com/aspsptyd) [![Medium Badge](https://img.shields.io/badge/-@septiyadi-171616?style=flat-square&labelColor=171616&logo=Medium&link=https://medium.com/@septiyadi/)](https://medium.com/@septiyadi/) [![GitHub followers](https://img.shields.io/github/followers/aspsptyd?label=Follow&style=social)](https://github.com/aspsptyd/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-devadiroot@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devadiroot@gmail.com)](mailto:devadiroot@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-@aspsptyd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aspsptyd/)](https://www.linkedin.com/in/aspsptyd/) [![GitLab Badge](https://img.shields.io/badge/-@asp.ty-orange?style=flat-square&logo=GitLab&logoColor=white&link=https://www.gitlab.com/asp.ty/)](https://www.gitlab.com/asp.ty/) [![Dev.to Badge](https://img.shields.io/badge/-@aspsptyd-black?style=flat-square&logo=dev.to&logoColor=white&link=https://www.dev.to/aspsptyd/)](https://www.dev.to/aspsptyd/)
