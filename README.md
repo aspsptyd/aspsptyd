@@ -6,4 +6,4 @@ _Hallo, i'm ~$ ashorterm, Now am a React Native Developer @ <a href="https://goo
 
 Skill & Competencies
  
-[![My Skills](https://skillicons.dev/icons?i=gitlab,github,bash,androidstudio,laravel,react,java,firebase,supabase,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab,github,bash,androidstudio,laravel,react,java,firebase,supabase,sqlite,javascript,html,bootstrap,vscode&theme=light)](https://skillicons.dev)
