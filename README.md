@@ -51,22 +51,9 @@ Software Engineer passionate about creating innovative solutions and building im
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspsptyd&layout=compact&theme=default&hide_border=false&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aspsptyd&theme=default&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-
-<!-- Note: GitHub stats will display once the page loads. If images don't appear, check if your GitHub username is correct in the URLs above. -->
-
 ## 🌟 Featured Projects
 
-### [resume-asep](https://github.com/aspsptyd/resume-asep)
+### [Curriculum Vitae Pribadi](https://github.com/aspsptyd/resume-asep)
 > Personal resume and portfolio website built with HTML, CSS, and JavaScript
 - Built with: HTML, CSS, JavaScript
 - Key Feature: Responsive design, version 1.4 with portfolio section
