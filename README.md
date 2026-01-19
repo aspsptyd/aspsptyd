@@ -59,7 +59,7 @@ Software Engineer passionate about creating innovative solutions and building im
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspsptyd&theme=default&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=aspsptyd&theme=default&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <!-- Note: GitHub stats will display once the page loads. If images don't appear, check if your GitHub username is correct in the URLs above. -->
