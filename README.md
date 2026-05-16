@@ -20,7 +20,7 @@ const asep = SoftwareEngineer.profile({
     github: '@aspsptyd',
     linkedin: '/in/aspsptyd',
     website: '[stefany-sa.com.br](https://aspsptyd.github.io/resume-asep)',
-    dev.to: 'https://dev.to/aspsptyd',
+    devto: 'https://dev.to/aspsptyd',
   },
 })
 
